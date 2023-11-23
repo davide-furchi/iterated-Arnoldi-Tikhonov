@@ -12,5 +12,7 @@ Code for the iterated Arnoldi-Tikhonov method presented in [1].
 9. Visualization Option: The user is prompted to choose whether to plot the computed solution alongside the exact solution in one dimension.
 
 [1] D. Bianchi, M. Donatelli, D. Furchì, L. Reichel. “Convergence analysis and parameter estimation for the iterated Arnoldi-Tikhonov method”, arXiv identifier: 2311.11823
+
 [2] R. Ramlau, L. Reichel. “Error estimates for Arnoldi-Tikhonov”, In: Inverse Problems 35 (2019), p. 055002.
+
 [3] P. C. Hansen. “Regularization tools version 4.0 for Matlab 7.3”, In: Numerical Algorithms 46 (2007), pp. 189-194.
